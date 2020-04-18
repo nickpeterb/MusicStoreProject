@@ -3,7 +3,7 @@ Fundamental Data Structures Course Project
 
 ##Course Project Requirements
 >Three level class heirarchy with at least one function is polymorphic (virtual) 
->> Product 
+- Product 
    - Physical
       - CD
       - Vinyl
